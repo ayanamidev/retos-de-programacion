@@ -1,5 +1,6 @@
 package reto5;
 
+
 public class Cuadrado extends Poligono {
 
     double lado;
@@ -25,6 +26,7 @@ public class Cuadrado extends Poligono {
         
         return ""+area;
     }
+
     
 
 }
