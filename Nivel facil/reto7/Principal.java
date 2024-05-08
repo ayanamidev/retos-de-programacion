@@ -40,7 +40,8 @@ public Principal(){
             y++;
         }
 
-    
+      
+
         System.out.println(cadena.valueOf(caracteresOrdenados));
 
     }
