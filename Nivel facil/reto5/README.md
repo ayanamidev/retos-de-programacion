@@ -1,0 +1,1 @@
+No entendi muy bien el enunciado y al entrar al repositorio de la web la respuesta estaba escirta en Kotlin, asi que hice un poco lo que me dio la gana.
