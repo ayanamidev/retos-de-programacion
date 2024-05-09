@@ -20,8 +20,9 @@ public class Principal {
         if(cifra==0){
             return 1;
         }else{
-            System.out.println(cifra * calcularFactorial(cifra-1));
             return cifra * calcularFactorial(cifra-1);
+
+            /*    5*(4*(3*(2*(1*(1)))))   */
             
         }
     }

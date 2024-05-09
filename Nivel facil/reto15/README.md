@@ -1,0 +1,1 @@
+La clase principal es el primer intento que hice, donde meenfoque en resolver el problema, el la clase Opcion2 mejore el codigo para que fuera mas eficiente y claro. 
