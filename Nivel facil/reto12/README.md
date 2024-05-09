@@ -1,1 +1,1 @@
-Solo hice la salida out1 pero imlemente que controle 
+Solo implemente la salida de out1 
