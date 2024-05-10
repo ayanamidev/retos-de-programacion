@@ -7,7 +7,7 @@ package reto5;
  * - Imprime el cálculo del área de un polígono de cada tipo.
  */
 
-import java.util.Random;
+
 
 public class principal {
     public static void main(String[] args) {

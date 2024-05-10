@@ -22,9 +22,6 @@ public Principal(){
 
        
 
-       
-
-
         
     }
     
@@ -42,7 +39,7 @@ public Principal(){
 
       
 
-        System.out.println(cadena.valueOf(caracteresOrdenados));
+        System.out.println(String.valueOf(caracteresOrdenados));
 
     }
     
